@@ -1,0 +1,1 @@
+Select year, min(rain) as MinRain, max(temp) as MaxTemp from [Weather Analysis ].[dbo].[S_temp_and_rain_dataset] group by year order by year asc

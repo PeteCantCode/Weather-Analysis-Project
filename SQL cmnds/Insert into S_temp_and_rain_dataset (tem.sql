@@ -1,0 +1,1 @@
+Insert into [Weather Analysis ].dbo.[S_temp_and_rain_dataset] (temp, month, year, rain) values ('-1', '10', '2025', '100'); 
